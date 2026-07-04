@@ -1,4 +1,3 @@
-# Kaopan
 # Hi there, I'm Peerawat! 👋
 
 I am a **Junior Full-Stack Developer** with a strong interest in Backend Engineering, Data Infrastructure, and Software Architecture. I love building efficient systems and connecting the dots between clean code and real-world impact.
