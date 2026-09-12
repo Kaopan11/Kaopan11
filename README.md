@@ -10,7 +10,7 @@ I am a **Junior Full-Stack Developer** with a strong interest in Backend Enginee
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, JavaScript (ES6), Java
 * **Frontend:** HTML5, CSS3, Tailwind CSS, React, Next.js, Vue.js
-* **Backend & Databases:** Node.js, Express.js, Spring Boot, Relational & Non-Relational Databases
+* **Backend & Databases:** Node.js, Express.js, NestJS, Spring Boot, Relational & Non-Relational Databases
 * **Cloud & DevOps:** Git, GitHub
 * **Methodologies:** Agile / Scrum Workflow
 
