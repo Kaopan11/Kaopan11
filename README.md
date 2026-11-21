@@ -22,4 +22,4 @@ I am a **Junior Full-Stack Developer** with a strong interest in Backend Enginee
 ---
 
 ### 📫 Connect with me:
-[@LinkedIn_Peerawat Kaewchay](https://www.linkedin.com/in/peerawat-kaewchay-52145327a/) | atkaew@email.com
+[@LinkedIn_Peerawat Kaewchay](https://www.linkedin.com/in/peerawat-kaewchay-52145327a/) | [atkaew@gmail.com](mailto:atkaew@gmail.com)
